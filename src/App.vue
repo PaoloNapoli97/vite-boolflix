@@ -12,7 +12,10 @@ export default {
 };
 </script>
 
-<template></template>
+<template>
+  <AppHeader />
+  <AppMain />
+</template>
 
 <style lang="scss">
 @import "./style/global.scss";
